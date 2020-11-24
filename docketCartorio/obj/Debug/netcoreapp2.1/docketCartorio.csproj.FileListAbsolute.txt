@@ -1,0 +1,17 @@
+C:\Users\erica\Desktop\projetoDocket-BackEnd\docketCartorio\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\erica\Desktop\projetoDocket-BackEnd\docketCartorio\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\erica\Desktop\projetoDocket-BackEnd\docketCartorio\bin\Debug\netcoreapp2.1\docketCartorio.deps.json
+C:\Users\erica\Desktop\projetoDocket-BackEnd\docketCartorio\bin\Debug\netcoreapp2.1\docketCartorio.runtimeconfig.json
+C:\Users\erica\Desktop\projetoDocket-BackEnd\docketCartorio\bin\Debug\netcoreapp2.1\docketCartorio.runtimeconfig.dev.json
+C:\Users\erica\Desktop\projetoDocket-BackEnd\docketCartorio\bin\Debug\netcoreapp2.1\docketCartorio.dll
+C:\Users\erica\Desktop\projetoDocket-BackEnd\docketCartorio\bin\Debug\netcoreapp2.1\docketCartorio.pdb
+C:\Users\erica\Desktop\projetoDocket-BackEnd\docketCartorio\obj\Debug\netcoreapp2.1\docketCartorio.csprojAssemblyReference.cache
+C:\Users\erica\Desktop\projetoDocket-BackEnd\docketCartorio\obj\Debug\netcoreapp2.1\docketCartorio.AssemblyInfoInputs.cache
+C:\Users\erica\Desktop\projetoDocket-BackEnd\docketCartorio\obj\Debug\netcoreapp2.1\docketCartorio.AssemblyInfo.cs
+C:\Users\erica\Desktop\projetoDocket-BackEnd\docketCartorio\obj\Debug\netcoreapp2.1\docketCartorio.csproj.CoreCompileInputs.cache
+C:\Users\erica\Desktop\projetoDocket-BackEnd\docketCartorio\obj\Debug\netcoreapp2.1\docketCartorio.RazorAssemblyInfo.cache
+C:\Users\erica\Desktop\projetoDocket-BackEnd\docketCartorio\obj\Debug\netcoreapp2.1\docketCartorio.RazorAssemblyInfo.cs
+C:\Users\erica\Desktop\projetoDocket-BackEnd\docketCartorio\obj\Debug\netcoreapp2.1\docketCartorio.RazorTargetAssemblyInfo.cache
+C:\Users\erica\Desktop\projetoDocket-BackEnd\docketCartorio\obj\Debug\netcoreapp2.1\docketCartorio.dll
+C:\Users\erica\Desktop\projetoDocket-BackEnd\docketCartorio\obj\Debug\netcoreapp2.1\docketCartorio.pdb
+C:\Users\erica\Desktop\projetoDocket-BackEnd\docketCartorio\obj\Debug\netcoreapp2.1\docketCartorio.genruntimeconfig.cache
